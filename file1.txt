@@ -1,2 +1,4 @@
 Darshan
 Computer Science
+Fav_restaurant
+Fav_movie
